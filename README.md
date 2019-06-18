@@ -1,2 +1,2 @@
 # westcoastpv
-West Coast Power Vac Website
+West Coast Power-Vac Website
